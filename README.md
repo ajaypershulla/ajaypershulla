@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @ajaypershulla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Ajay Kumar (@ajaypershulla)
 
-<!---
-ajaypershulla/ajaypershulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a final-year B.Tech student with a strong passion for web development. Proficient in HTML, CSS, JavaScript, Node.js, Git/GitHub, Express.js, MongoDB, and React.js, I enjoy creating robust and user-centric web applications.
+
+## About Me
+
+- 💼 Currently pursuing a degree in B.Tech (Final Year)
+- 🚀 Skilled in web development technologies: HTML, CSS, JavaScript, Node.js, Git/GitHub, Express.js, MongoDB, React.js
+- 🌱 Always eager to learn and explore new technologies
+
+## Interests
+
+- 👀 I'm interested in web development, exploring both frontend and backend technologies.
+- 🌐 Passionate about creating seamless and engaging user experiences.
+- 🛠️ Open to collaborating on innovative web development projects.
+
+## Current Learning
+
+I'm currently focused on enhancing my skills in:
+
+- 🚧 Advanced React.js concepts.
+- 🔍 Best practices in Node.js development.
+- [Add any other technologies or topics you're currently exploring.]
+
+## How to Reach Me
+
+Let's connect and discuss exciting opportunities! You can reach me through:
+
+- 📧 Email: ajaypershulla@gmail.com
+- 💼 LinkedIn: [Ajay Kumar](https://www.linkedin.com/in/ajaypershulla/)
+- 🐙 GitHub: [ajaypershulla](https://github.com/ajaypershulla)
+
+## Let's Connect and Create Amazing Things Together! 🚀
