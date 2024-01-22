@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Ajay Kumar (@ajaypershulla)
 
-I'm a final-year B.Tech student with a strong passion for web development. Proficient in HTML, CSS, JavaScript, Node.js, Git/GitHub, Express.js, MongoDB, and React.js, I enjoy creating robust and user-centric web applications.
+I'm a Web Developement Intern @CodeWay Solutions and a final-year B.Tech student with a strong passion for web development. Proficient in HTML, CSS, JavaScript, Node.js, Git/GitHub, Express.js, MongoDB, and React.js, I enjoy creating robust and user-centric web applications.
 
 ## About Me
-
+- 💼 Web Development Intern @CodeWay Solutions
 - 💼 Currently pursuing a degree in B.Tech (Final Year)
 - 🚀 Skilled in web development technologies: HTML, CSS, JavaScript, Node.js, Git/GitHub, Express.js, MongoDB, React.js
 - 🌱 Always eager to learn and explore new technologies
@@ -31,3 +31,4 @@ Let's connect and discuss exciting opportunities! You can reach me through:
 - 🐙 GitHub: [ajaypershulla](https://github.com/ajaypershulla)
 
 ## Let's Connect and Create Amazing Things Together! 🚀
+
