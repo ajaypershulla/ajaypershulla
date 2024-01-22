@@ -20,7 +20,7 @@ I'm currently focused on enhancing my skills in:
 
 - 🚧 Advanced React.js concepts.
 - 🔍 Best practices in Node.js development.
-- [Add any other technologies or topics you're currently exploring.]
+
 
 ## How to Reach Me
 
