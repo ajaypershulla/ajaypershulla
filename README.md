@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="codng" width="250" src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif">
+<img align="right" alt="codng" width="250" src="https://i.pinimg.com/originals/f7/78/d7/f778d7d5dccbf903ef2d6523064ad30f.gif">
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
 
