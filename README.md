@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="codng" width="250" src="[https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F372675-programming-processing-gif&psig=AOvVaw1iROYZr9ZsENNLrHyVUI-_&ust=1707905727100000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDouZiLqIQDFQAAAAAdAAAAABAD)">
+<img align="right" alt="codng" width="250" src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif">
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
 
