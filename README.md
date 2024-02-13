@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="codng" width="400" src="https://t3.ftcdn.net/jpg/02/71/85/48/360_F_271854871_WmB66EoWKo4vDZcVLJ32vmnbWXChNhoj.jpg">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypershulla" alt="ajaypershulla" /></a> </p>
+<img align="right" alt="codng" width="400" src="https://w7.pngwing.com/pngs/409/372/png-transparent-computer-programming-web-development-computer-icons-art-of-unix-programming-computer-program-computer-programming-data-thumbnail.png">
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
 
@@ -14,8 +12,6 @@
 - 💬 Ask me about **html, css, javaScript, NodeJS, ExpressJS**
 
 - 📫 How to reach me **ajaypershulla@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/AJAYPERSHULLA](https://github.com/AJAYPERSHULLA)
 
 - ⚡ Fun fact **reading learning playing singing coding and repeat**
 
@@ -32,7 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajaypershulla@paytm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajaypershulla@paytm" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaypershulla&show_icons=true&locale=en&layout=compact" alt="ajaypershulla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaypershulla&show_icons=true&locale=en&layout=compact" alt="ajaypershulla" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaypershulla&show_icons=true&locale=en" alt="ajaypershulla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypershulla&" alt="ajaypershulla" /></p>
-
