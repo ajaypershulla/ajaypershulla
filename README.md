@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="codng" width="400" src="https://w7.pngwing.com/pngs/409/372/png-transparent-computer-programming-web-development-computer-icons-art-of-unix-programming-computer-program-computer-programming-data-thumbnail.png">
+<img align="right" alt="codng" width="400" src="https://w7.pngwing.com/pngs/1000/861/png-transparent-coding-kid-illustration-computer-programming-programmer-child-source-code-coding-text-people-computer.png">
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
 
